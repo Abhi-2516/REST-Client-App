@@ -1,4 +1,4 @@
-import { initializeDatabase } from '../init-db';
+import { initializeDatabase } from '../../../lib/init-db';
 
 export async function POST() {
   try {
