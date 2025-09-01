@@ -39,7 +39,7 @@ A modern, full-featured REST API testing tool built with Next.js, featuring a be
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/Abhi-2516/REST-Client-App
    cd rest-client-app
    ```
 
@@ -196,23 +196,6 @@ API_TIMEOUT=30000
 - **Database**: Update `mikro-orm.config.js` for database settings
 - **API Routes**: Extend API routes in `src/app/api/`
 
-## 🚀 Deployment
-
-### Vercel (Recommended)
-
-1. **Push to GitHub**
-2. **Connect to Vercel**
-3. **Deploy automatically**
-
-### Other Platforms
-
-```bash
-# Build the application
-npm run build
-
-# Start production server
-npm run start
-```
 
 ## 🤝 Contributing
 
@@ -226,24 +209,7 @@ npm run start
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
-
-- [Next.js](https://nextjs.org/) - The React framework
-- [Tailwind CSS](https://tailwindcss.com/) - Utility-first CSS framework
-- [MikroORM](https://mikro-orm.io/) - TypeScript ORM
-- [Lucide React](https://lucide.dev/) - Beautiful icons
-- [JSONPlaceholder](https://jsonplaceholder.typicode.com/) - Fake API for testing
-
-## 📞 Support
-
-If you encounter any issues or have questions:
-
-1. Check the [Issues](https://github.com/your-username/rest-client-app/issues) page
-2. Create a new issue with detailed information
-3. Include steps to reproduce the problem
 
 ---
 
 **Happy API Testing! 🎉**
-
-Built with ❤️ using Next.js and modern web technologies.
